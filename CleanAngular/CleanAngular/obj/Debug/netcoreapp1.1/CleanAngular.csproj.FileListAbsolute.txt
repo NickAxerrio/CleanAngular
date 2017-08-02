@@ -1,0 +1,8 @@
+C:\Users\nvanderraaf\Documents\Visual Studio 2017\Projects\CleanAngular\CleanAngular\bin\Debug\netcoreapp1.1\CleanAngular.deps.json
+C:\Users\nvanderraaf\Documents\Visual Studio 2017\Projects\CleanAngular\CleanAngular\bin\Debug\netcoreapp1.1\CleanAngular.runtimeconfig.json
+C:\Users\nvanderraaf\Documents\Visual Studio 2017\Projects\CleanAngular\CleanAngular\bin\Debug\netcoreapp1.1\CleanAngular.runtimeconfig.dev.json
+C:\Users\nvanderraaf\Documents\Visual Studio 2017\Projects\CleanAngular\CleanAngular\obj\Debug\netcoreapp1.1\CleanAngular.AssemblyInfo.cs
+C:\Users\nvanderraaf\Documents\Visual Studio 2017\Projects\CleanAngular\CleanAngular\bin\Debug\netcoreapp1.1\CleanAngular.dll
+C:\Users\nvanderraaf\Documents\Visual Studio 2017\Projects\CleanAngular\CleanAngular\bin\Debug\netcoreapp1.1\CleanAngular.pdb
+C:\Users\nvanderraaf\Documents\Visual Studio 2017\Projects\CleanAngular\CleanAngular\obj\Debug\netcoreapp1.1\CleanAngular.dll
+C:\Users\nvanderraaf\Documents\Visual Studio 2017\Projects\CleanAngular\CleanAngular\obj\Debug\netcoreapp1.1\CleanAngular.pdb
